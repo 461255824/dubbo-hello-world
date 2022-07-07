@@ -15,7 +15,7 @@
         <module>provider2</module>
     </modules>
     <properties>
-        <maven-spring.version>4.3.12.RELEASE</maven-spring.version>
+        <maven-spring.version>5.2.21.RELEASE</maven-spring.version>
         <maven-javassist.version>3.21.0-GA</maven-javassist.version>
     </properties>
 
